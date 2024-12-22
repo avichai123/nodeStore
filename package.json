@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/web-master-college/nodeStore/issues"
   },
-  "homepage": "https://github.com/web-master-college/nodeStore#readme"
+  "homepage": "https://github.com/web-master-college/nodeStore#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
